@@ -1,0 +1,36 @@
+/* Article Background Color and Padding */ 
+
+article:nth-child(2) {
+	background: orange;
+	padding: 20px;
+}
+
+article:nth-child(3) {
+	background: red;
+	padding: 100px;
+	font-family: "Verdana, sans-serif";
+}
+
+article:nth-child(4) {
+	background: blue;
+	padding: 10px;
+	font-family: "Georgia, serif";
+}
+
+article:nth-child(5) {
+	background: purple;
+	padding: 50px;
+	font-family: "Times New Roman, serif";
+}
+
+article:nth-child(6) {
+	background: green;
+	padding: 70px;
+	font-family: "Helvettica, sans-serif";
+}
+
+/* Article Font Size, Font Color and Line Height */
+
+.article-content:nth-child(2) {
+	font-family: "Arial, sans-serif";
+}
